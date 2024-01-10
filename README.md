@@ -5,9 +5,9 @@ A software engineer with a passion for creative problem-solving and a dedication
 I'm not only a skilled developer but also a problem solver who thrives in challenging environments. I'm looking for opportunities where I can leverage my technical expertise, collaborate with innovative teams, and contribute to exciting projects.
 
 ### 💪 Skills
-- Programming Language - JavaScript | TypeScript | Python | HTML | CSS | C#
-- Frameworks - NodeJS | React | Jest | Flask | FastAPI | .Net
-- Database - PostgreSQL | MsSQL | MongoDB
+- Programming Languages - JavaScript | TypeScript | Python | HTML5 | CSS3 | C#
+- Frameworks - Node.js | React | Next.js | Jest | Flask | FastAPI | .Net
+- Databases - PostgreSQL | MsSQL | MongoDB | DynamoDB
   
 <!--
 **sharonshlee/sharonshlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
